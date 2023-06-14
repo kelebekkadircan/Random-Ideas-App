@@ -4,7 +4,7 @@ class IdeasApi
 {
     constructor()
     {
-        this._apiUrl = 'http://localhost:5000/api/ideas'
+        this._apiUrl = '/api/ideas'
     }
 
     getIdeas()
